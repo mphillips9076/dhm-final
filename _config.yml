@@ -37,7 +37,7 @@ author: Megan Phillips
 # e.g. relative path "/assets/demo-metadata.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7InTjE1nh7pV6E-cv5QhIwJW99XJfBMk0vinLReP74xQlzUnCU4QD68D0CByUvglSr0E16lWTcCQi/pubhtml"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/psychiana_cbdemo_gh.csv"
-metadata-csv: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7InTjE1nh7pV6E-cv5QhIwJW99XJfBMk0vinLReP74xQlzUnCU4QD68D0CByUvglSr0E16lWTcCQi/pub?output=csv"
+metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7InTjE1nh7pV6E-cv5QhIwJW99XJfBMk0vinLReP74xQlzUnCU4QD68D0CByUvglSr0E16lWTcCQi/pub?output=csv
 
 ##########
 # Site/Organization Branding 
