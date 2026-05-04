@@ -9,7 +9,7 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-url: https://dhm-final.github.io 
+url: https://mphillips9076.github.io/dhm-final/ 
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
@@ -37,14 +37,14 @@ author: Megan Phillips
 # e.g. relative path "/assets/demo-metadata.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7InTjE1nh7pV6E-cv5QhIwJW99XJfBMk0vinLReP74xQlzUnCU4QD68D0CByUvglSr0E16lWTcCQi/pubhtml"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/psychiana_cbdemo_gh.csv"
-metadata-csv: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7InTjE1nh7pV6E-cv5QhIwJW99XJfBMk0vinLReP74xQlzUnCU4QD68D0CByUvglSr0E16lWTcCQi/pubhtml"
+metadata-csv: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7InTjE1nh7pV6E-cv5QhIwJW99XJfBMk0vinLReP74xQlzUnCU4QD68D0CByUvglSr0E16lWTcCQi/pub?output=csv"
 
 ##########
 # Site/Organization Branding 
 # 
 # Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
+ organization-name: "Summer Musical Enterprise"
+ organization-link: https://summermusicalenterprise.org/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
